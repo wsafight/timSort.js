@@ -1,5 +1,5 @@
 # timSort.js
 
-Timsort for smoothing the differences between different browsers
+TimSort for smoothing the differences between different browsers
 
-Timsort is an industrial ranking algorithm
+TimSort is an industrial ranking algorithm

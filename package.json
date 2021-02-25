@@ -1,7 +1,7 @@
 {
   "name": "timeSort.js",
   "version": "0.0.1",
-  "description": "Memoize/cache function results",
+  "description": "TimSort for smoothing the differences between different browsers",
   "author": "jump-jump <984292420@qq.com>",
   "keywords": [
     "timSort"
